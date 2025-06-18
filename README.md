@@ -61,7 +61,7 @@
   <img 
     alt="Top Langs" 
     width="360" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mankeya&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriiquemiranda2&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </div>
 
